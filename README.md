@@ -8,8 +8,9 @@ komodo editor config for rubyonrails
 Summary
 -------
 Komodo is a free editor , running on Windows & Linux & Mac
+[Download](http://www.activestate.com/komodo-edit/downloads )
 
-The scheme in screeshot is my config ,please copy RubuOnRails.ksf to KomodoPath\lib\support\schemes,then follow these steps: Edit->Preferences->Fonts and Colors , select RubyOnRails from the dropdownlist, nearby $ Scheme:(system schemes are in bold)
+The scheme in screeshot is my config ,please copy RubyOnRails.ksf to [KomodoPath\lib\support\schemes],then follow these steps: Edit->Preferences->Fonts and Colors , select RubyOnRails from the dropdownlist, nearby [Scheme:(system schemes are in bold)]
 
 
 
